@@ -7,11 +7,13 @@ tags: ["tahiti"]
 ---
 
 
-![tahiti](tahiti.jpg)
+Dang look at this awesome pic!!
+![tahiti](/content/images/tahiti.jpg)
 
 
 
+And this one too geez!!
 
-
+![tahiti](/content/images/tahiti2.jpg)
 
 
