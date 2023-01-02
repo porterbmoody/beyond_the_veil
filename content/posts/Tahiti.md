@@ -8,12 +8,16 @@ tags: ["tahiti"]
 
 
 Dang look at this awesome pic!!
-![tahiti](/content/images/tahiti.jpg)
+![tahiti](/images/tahiti.jpg)
 
 
 
 And this one too geez!!
 
-![tahiti](/content/images/tahiti2.jpg)
+![tahiti](/images/tahiti2.jpg)
 
 
+
+<!-- git add .
+git commit -m "swag changes"
+git push -->
