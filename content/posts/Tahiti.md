@@ -9,21 +9,21 @@ tags: ["tahiti"]
 
 Dang look at this awesome pic!!
 
-![tahiti!](/content/images/tahiti.jpg)
+![tahiti!](/images/tahiti.jpg)
 
 
 
 And this one too geez!!
 
-![tahiti](/content/images/tahiti2.jpg)
+![tahiti](/images/tahiti2.jpg)
 
 
 
 This girl looks like shes straight vibing!! dang!!
 
-![tahiti](/content/images/relaxed.jfif)
+![tahiti](/images/relaxed.jfif)
 
-![tropical](/content/images/swagtropical.jfif)
+![tropical](/images/swagtropical.jfif)
 
 
 
