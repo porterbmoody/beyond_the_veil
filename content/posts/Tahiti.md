@@ -7,7 +7,7 @@ tags: ["tahiti"]
 ---
 
 
-
+![tahiti](tahiti.jpg)
 
 
 
