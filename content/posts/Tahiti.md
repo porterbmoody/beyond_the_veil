@@ -1,6 +1,6 @@
 ---
 title: "Tahiti"
-description: ""
+description: "Hype!!"
 featured_image: "/images/tahihi.png"
 date: 2022-12-22T10:58:08-04:00
 tags: ["tahiti"]
@@ -8,6 +8,7 @@ tags: ["tahiti"]
 
 
 Dang look at this awesome pic!!
+
 ![tahiti](/content/images/tahiti.jpg)
 
 
