@@ -25,6 +25,7 @@ This girl looks like shes straight vibing!! dang!!
 
 
 this pic is also sooo good
+
 ![tropical](/content/images/posts/swagtropical.jfif)
 
 
