@@ -1,4 +1,4 @@
-title = "Is there no Balm in Gilead?"
+title = "Nature Blog"
 baseURL = "https://gohugo-theme-ananke.pages.dev"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
