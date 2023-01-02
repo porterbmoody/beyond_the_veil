@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "YOOOOOO its me p-dawg"
-featured_image: '/images/shrek.png'
+featured_image: '/images/posts/shrek.png'
 menu:
   main:
     weight: 1
