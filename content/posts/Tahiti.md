@@ -15,15 +15,17 @@ Dang look at this awesome pic!!
 
 And this one too geez!!
 
-![tahiti](/images/posts/tahiti2.jpg)
+![tahiti](/content/images/posts/tahiti2.jpg)
 
 
 
 This girl looks like shes straight vibing!! dang!!
 
-![tahiti](/images/posts/relaxed.jfif)
+![tahiti](/content/images/posts/relaxed.jfif)
 
-![tropical](/images/posts/swagtropical.jfif)
+
+this pic is also sooo good
+![tropical](/content/images/posts/swagtropical.jfif)
 
 
 
