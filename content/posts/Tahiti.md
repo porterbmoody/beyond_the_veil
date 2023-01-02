@@ -9,7 +9,7 @@ tags: ["tahiti"]
 
 Dang look at this awesome pic!!
 
-![tahiti](/content/images/tahiti.jpg)
+![tahiti!](/content/images/tahiti.jpg)
 
 
 
